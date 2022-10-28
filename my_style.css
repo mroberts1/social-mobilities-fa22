@@ -1,0 +1,62 @@
+@import url("https://use.typekit.net/uds6lpa.css");
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/charter-webfont@4/charter.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Spectral&display=swap');
+
+@charset "UTF-8";
+
+html { font-size: 16px; }
+
+h1,h2,h3 {
+  font-style: normal;
+  font-weight: 600;
+}
+
+body {
+  font-family: "Spectral", "Alegreya", "Charter", serif;
+  font-size: 1em;
+  background-color: #f3f7ff;
+  
+}
+h1 {
+  font-size: 2.2em;
+  font-family: "Proxima Nova", sans-serif;
+}
+
+h2 {
+  font-size: 1.6em;
+  font-family: "Proxima Nova", sans-serif;
+  text-transform: uppercase;
+  color: #000;
+}
+
+h3 {
+  font-size: 1.8em;
+  font-family: "Proxima Nova", sans-serif;
+}
+hr {
+    display: block;
+    height: 1px;
+    width: 100%;
+    border: 0;
+    border-top: 3px solid #d74e45;
+    margin: 1em 0;
+    padding: 0;
+}
+a:link {
+    text-decoration-color: #d74e45;
+    text-underline-offset: 3px;
+}
+
+a:visited {
+    text-decoration-color: #d74e45;
+}
+
+a:hover {
+    color: #d74e45;
+}
+
+a:active {
+    color: #d74e45;
+}

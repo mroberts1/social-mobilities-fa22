@@ -1,0 +1,279 @@
+---
+output: 
+  cleanrmd::html_document_clean:
+    theme: water
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{css, echo = FALSE}
+body {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 2rem;
+}
+```
+# COMM 7007 SOCIAL MOBILITIES
+
+Fitchburg State University  
+Communications Media Department  
+MS, Applied Communication, Social Media Concentration  
+GCE Online-Accelerated  
+7 weeks, Friday 28 October – Thursday 15 December 2022  
+Instructor: Dr. Martin Roberts  
+Contact information: [mrober40@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu).  
+
+## Course Texts
+
+Baym, Nancy K. (2017). _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection_. New York: New York University Press. ISBN: 978-1479821587.  
+
+Humphreys, Lee (2018). _The Qualified Self: Social Media and the Accounting of Everyday Life_. Cambridge, MA: MIT Press. ISBN: 978-0262538954.  
+
+McNeil, Joanne (2020). _Lurking: How A Person Became A User_. New York: Farrar, Strauss, and Giroux. ISBN: 978-1250785756.  
+
+Weinstein, Emily, and Carrie James (2022). _Behind Their Screens: What Teens Are Facing (And Adults Are Missing)_. Cambridge, MA: MIT Press. ISBN: 978-0262047357.
+
+White, Michele (2022). _Touch Screen Theory: Digital Devices and Feelings_. Cambridge, MA: MIT Press. ISBN:  978-0262544689.   [Open Access](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)  
+
+***  
+
+## Course Format
+
+We will be using Blackboard for submitting assignments ONLY.  
+
+For discussion, we will use Discord  
+
+For reading, we will use ebooks, PDFs, and audiobooks  
+
+***  
+
+## Weekly Schedule
+
+
+Week 1: Friday 28 October 2022  
+
+**GHOSTS & WITCHES**  
+
+- Narr, G., and Luong, A. (2022). "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom." _The Communication Review_, 5 October. [Source](https://doi.org/10.1080/10714421.2022.2129949)  
+- Jane Barnette, "Hocus-Pocus: WitchTok Education for Baby Witches" (in Trevor Boffone, _TikTok Cultures in the United States_)  
+
+*** 
+
+Week 2: Friday 4 November 2022  
+
+**LURKING  
+
+Joanne McNeil, _Lurking: How A Person Became A User_  
+- Introduction
+- Anonymity (ch. 2)  
+- Sharing (ch. 4)   
+
+*** 
+
+Week 3: Friday 11 November 2022  
+
+**TOUCHING, TAPPING, SWIPING**  
+
+Michele White, _Touch Screen Theory: Digital Devices and Feelings_  
+- Introduction: The Touchscreen That ‘fills the hand‘: Physically Touching and Emotionally Feeling Devices
+- Screen ‘Tapping into your heart‘: Autonomous Sensory Meridian Response Videos, ASMRtists, and Tactile Addresses  
+                                         
+*** 
+
+Week 4: Friday 18 November 2022  
+
+**SCREENTIME**
+
+Emily Weinstein and Carrie James, _Behind Their Screens: What Teens Are Facing (And Adults Are Missing)_  
+- Introduction: What Are We Missing? Why Does It Matter?  
+- The Pull of the Screen  
+
+Watch: _Men, Women, and Children_ ()
+
+*** 
+
+Week 5: Friday 25 November 2022  
+
+**IDENTITY WORK**
+
+Lee Humphreys, _The Qualified Self: Social Media and the Accounting of Everyday Life_
+- Introduction (ch. 1)  
+- Sharing the Everyday (ch. 2)  
+
+*** 
+
+Week 6: Friday 2 December 2022
+
+**PARASOCIAL RELATIONS**
+
+Nancy Baym, _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection_
+- Introduction: The Intimate Work of Connection  
+- Platforms (ch. 5)  
+
+*** 
+
+Week 7: Friday 9 December 2022
+
+**SHARING**
+
+Research projects  
+
+Thurday 15 December: Last day of classes  
+
+****
+
+### Bibliography
+
+Baym, Nancy K. (2017). _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection_. New York: New York University Press. ISBN: 978-1479821587.  
+
+Bernard, Andreas (2019). _The Triumph of Profiling: The Self in Digital Culture_. Trans. Valentine A. Pakis. Cambridge: Polity Press. Originally published as _Komplizen des Erkennungsdienstes. Das Selbst in der digitalen Kultur_. ISBN: 978-1509536306.  
+
+(A) Brennan, Matthew (2021). _Attention Factory: The Story of TikTok and China's ByteDance_. Independently published. ASIN :B08L3NW6VM.  
+
+(E) Berland, Jody. (2019). _Virtual Menageries: Animals as Mediators in Network Cultures_. Cambridge, MA: MIT Press. Ebook: ASIN: B08BTCZ23P.  
+
+(E) Boffone, Trevor, ed. (2022). _TikTok Cultures in the United States_. New York: Routledge. Kindle: ASIN: B0B9WKGT9N. ISBN: 978-1032249162.  
+
+Humphreys, Lee (2018). _The Qualified Self: Social Media and the Accounting of Everyday Life_. Cambridge, MA: MIT Press. ISBN: 978-0262538954.  
+
+(A) Lagorio-Chafkin, Christine (2018). _We Are The Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory_. New York: Hachette Books. ISBN:  978-0316435406. Audiobook: ASIN: B07H5Q5JGS.  
+
+Lobato, Ramon (2019). _Netflix Nations: The Geography of Digital Distribution_. New York: New York University Press. ISBN: 978-1479804948.  
+
+Losh, Elizabeth (2022). _Selfie Democracy: The New Digital Politics of Disruption and Insurrection_. Cambridge, MA: MIT Press. [Open Access](https://direct.mit.edu/books/book/5380/Selfie-DemocracyThe-New-Digital-Politics-of)  
+
+Lotz, Amanda D. (2022). _Netflix and Streaming Video: The Business of Subscriber-Funded Video on Demand_. Cambridge: Polity Press. ISBN: 978-1509552955.  
+
+(A) McNeil, Joanne (2020). _Lurking: How A Person Became A User_. New York: Farrar, Strauss, and Giroux. ISBN: 978-1250785756.  
+
+Taylor, T.L. (2018). _Watch Me Play: Twitch and the Rise of Game Live Streaming_. Princeton: Princeton University Press. ISBN: 978-0691183558.  
+
+Veale, Tony, and Mike Cook (2018). _Twitterbots: Making Machines That Make Meaning_. Cambridge, MA: MIT Press. ISBN: 978-0262037907.  
+
+Wang, Jing (2019). _The Other Digital China: Nonconfrontational Activism on the Social Web_. Cambridge, MA: Harvard University Press. ISBN: 978-0674980921.  
+
+(A) Weinstein, Emily, and Carrie James (2022). _Behind Their Screens: What Teens Are Facing (And Adults Are Missing)_. Cambridge, MA: MIT Press. ISBN: 978-0262047357.  
+
+White, Michele (2022). _Touch Screen Theory: Digital Devices and Feelings_. Cambridge, MA: MIT Press. ISBN:  978-0262544689.   [Open Access](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)  
+
+***
+
+**MANDATORY REPORTER**
+
+Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [http://fitchburgstate.edu/titleix](http://fitchburgstate.edu/titleix) to access information about university support and resources.
+                   
+***
+
+**PHYSICAL AND MENTAL HEALTH**
+
+[Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
+
+Hours: Monday-Friday 8:30AM-5PM
+
+Location: Ground Level of Russell Towers (across from the entrance of Holmes Dining Hall) Phone: (978) 665-3643/3894
+
+[Counseling Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fcounseling-services%2F&sa=D&sntz=1&usg=AFQjCNEYiS4EmSvWerpp2bKr5lTpouPuqQ)
+
+The Counseling Services Office offers a range of services including individual, couples and group counseling, crisis intervention, psychoeducational programming, outreach ALTERNATIVE ECOSYSTEMSs, and community referrals. Counseling services are confidential and are offered at no charge to all enrolled students. Staff at Counseling Services are also available for consultation to faculty, staff and students. Counseling Services is located in the Hammond, 3rd Floor, Room 317.
+
+[Fitchburg Anti-Violence Education (FAVE)](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Ffitchburg-anti-violence-education%2F&sa=D&sntz=1&usg=AFQjCNFi5qy-wunMxX-hoWbA9YwT8aa4Ig)
+
+FAVE collaborates with a number of community partners (e.g., YWCA Domestic Violence Services, Pathways for Change) to meet our training needs and to link survivors with community based resources. This site also features [resources](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Ffitchburg-anti-violence-education%2Ffitchburg-anti-violence-education-resources%2F&sa=D&sntz=1&usg=AFQjCNF9KZ2O1AvPMLJTHdNg1DfmYYtgog) for help or information about dating violence, domestic violence, sexual assault and stalking. If you or someone you know is in an abusive relationship or has been a victim of sexual assault, there are many places to go for help. Many can be accessed 24 hours a day, seven days a week, 365 days a year. On campus, free and confidential support is provided at both Counseling Services and Health Services.
+
+_Community Food Pantry_
+
+Food insecurity is a growing issue and it certainly can affect student learning. The ability to have access to nutritious food is incredibly vital. The Falcon Bazaar, located in Hammond G 15, is stocked with food, basic necessities, and can provide meal swipes to support all Fitchburg State students experiencing food insecurity for a day or a semester.
+
+The university continues to partner with Our Father's House to support student needs and access to food and services. All Fitchburg State University students are welcome at the Our Father’s House Community Food Pantry. This Pantry is located at the Faith Christian Church at 40 Boutelle St., Fitchburg, MA and is open from 5-7pm. Each “household” may shop for nutritious food once per month by presenting a valid FSU ID.
+                   
+***
+
+**ACADEMIC INTEGRITY**
+
+The University “Academic Integrity” policy can be found online at [http://](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) [www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/)[mediation-education/academic-integrity/](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/)[.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
+
+Plagiarism includes, but is not limited to:
+
+• Using papers or work from another class.
+• Using another student's paper or work from any class.
+• Copying work or a paper from the Internet.
+• The egregious lack of citing sources or documenting research.
+
+_If you're not clear on what is or is not plagiarism, ASK. The BEST case scenario if caught is a zero on that assignment, and ignorance of what does or does not count is not an excuse. That being said, I'm a strong supporter of_ [](https://en.wikipedia.org/wiki/Fair_Use)[_Fair Use_](https://en.wikipedia.org/wiki/Fair_Use) _doctrine. Just attribute what you use--and, again, ASK if there's any doubt._      
+                   
+***
+
+**AMERICANS WITH DISABILITIES ACT (ADA)**
+
+If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.                          
+                   
+***
+
+**INCOMPLETE AND LATE ASSIGNMENTS**
+
+If you are not able to complete your work, please make every effort to contact your instructor **before the due date**. I am willing to make accommodations where necessary, but will assign a 0 if work is not submitted and we do not make other arrangements.                               
+                   
+***
+
+**TECHNOLOGY EXCUSE STATEMENT**
+
+At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
+
+- Plan ahead: A deadline is the last minute to turn in material. You can start—and finish—early, particularly if challenging resources are required, or you know it will be time consuming to finish this project.
+- Save work early and often: Think how much work you do in 10 minutes. I auto save every 2 minutes.
+- Make regular backups of files in a different location: Between Box, Google Drive, Dropbox, and iCloud, you have ample places to store and backup your materials. Use them.
+- Save drafts: When editing, set aside the original and work with a copy.
+- Practice safe computing: On your personal devices, install and use software to control viruses and malware.
+                   
+***
+
+**GRADING POLICY**
+
+Grading for the course will follow the FSU grading policy below:
+
+4.0
+95-100
+
+3.7
+92-94
+
+3.5
+89-91
+
+3.3
+86-88
+
+3.0
+83-85
+
+2.7
+80-82
+
+2.5
+77-79
+
+2.3
+74-76
+
+2.0
+71-73
+
+0.0
+< 70
+                   
+***
+
+**STUDENT RESOURCES**
+
+Writing Center: [http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
+
+Academic Policies:  [http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
+
+Disability Services: [http://www.fitchburgstate.edu/offices-services-directory/disability-services/](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
+
+Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences: [https://www.getrave.com/login/](https://www.getrave.com/login/fitchburgstate/) [fitchburgstate/](https://www.getrave.com/login/fitchburgstate/)
+
+University Career Services: [http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)[services/](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
