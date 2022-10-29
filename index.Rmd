@@ -1,7 +1,7 @@
 ---
-output: 
-  cleanrmd::html_document_clean:
-    theme: water
+output:
+  html_document:
+    css: "discord.css"
 ---
 
 ```{r setup, include=FALSE}
