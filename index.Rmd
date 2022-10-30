@@ -1,7 +1,8 @@
 ---
 output:
-  html_document:
-    css: "discord.css"
+  cleanrmd::html_document_clean:
+    theme: water # or pick a specific theme
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
