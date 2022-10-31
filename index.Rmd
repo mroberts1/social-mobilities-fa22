@@ -35,7 +35,7 @@ This seminar is an exploration of what it means to live with personal, portable,
 
 ### COURSE TEXTS
 
-Bolded titles are Open Access publications.
+Linked titles are Open Access publications.
 
 Baym, Nancy K. (2017). _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection_. New York: New York University Press. ISBN: 978-1479821587.  
 
@@ -94,7 +94,7 @@ Joanne McNeil, _Lurking: How A Person Became A User_
 
 Week 3: Friday 11 November 2022  
 
-**TOUCHING, TAPPING, SWIPING**  
+**INTERFACES**  
 
 Michele White, [**_Touch Screen Theory: Digital Devices and Feelings_**](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)    
 
@@ -152,31 +152,27 @@ Thurday 15 December: Last day of classes
 
 ### ASSIGNMENTS & EVALUATION
 
-- **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)   
-- **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the _following_ Friday (20%)    
-- **Commentary**: 2 short papers, 750-1000 words, due Friday of Week 2 and Week 4 (20%)    
-- **Research paper/report/other project**: 2,000 words, due Friday of week 6 (20%)    
-- **Colloquium**: week 7, flexible format - slides, video/audio, web page, blog, wiki (20%)      
+- **Discord**: regular participation in weekly discussion and other channels (20%)  
+- **Commentary papers**: 2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Friday) (20%)
+- **Book Report**: Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books.  For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Friday of Week 5 (20%)  
+- **Creative Communities Project** journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)  
+- **Research paper/report/creative project**: 2,000 words, due on Blackboard by Friday of Week 7 (20%)  
 
-**Discussion: Agenda, Review, Reply Posts**   
-For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks. 
+**Creative Communities**  
+On Fridays of each week of the course, we'll look at  some less-well-known communities on the internet, based on distributed, open-source platforms that are alternatives to the commercial platforms that dominate today's social mediascape. 
 
-By the end of the day on **Monday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week, that introduces and contextualizes the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read. Be sure to read the Agenda post before beginning the reading assignments. 
+Read the linked articles or read the introductory pages of the sites below. By the end of Week 2, choose and begin exploring **one** of the following platforms, protocols, and/or communities, and join the Discord channel for it on the course server. Keep a journal, write a report or a resource guide, make a blog or a wiki, or a creative project. This will be due on the Friday of Week 6.
 
-In the first week,  complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by **Friday** of the week in question. 
-
-In the second week,  read through the Review posts of the group and post at least one Reply to one of them by Friday of that week.
-
-**Commentary Papers**  
-These short papers (750-1,000 words) are due at the end of Week 2 and Week 4 (Sunday). They should consist of close analytical readings of any of the reading assignments for the period Weeks 1-2 or 3-4. You are encouraged to focus in detail on particular sections, arguments, and/or concepts from the readings and develop them.
+- [Mastodon](https://medium.com/@VirtualAdept/a-friendly-introduction-to-the-fediverse-5b4ef3f8ed0e)  
+- [Gemini](https://gemini.circumlunar.space/)  
+- [Digital Gardens](https://maggieappleton.com/garden-history)  
+- [People's Republic of Interactive Fiction](http://pr-if.org/)   
+- [Live Coding](https://toplap.org/)
 
 **Research Paper/Project**  
-The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project of your choice. 
+The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project (blog, website, podcast)  
 
-A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4. 
-
-**Colloquium**  
-Research papers/projects will be presented to and discussed with the group at the Colloquium scheduled over the last week of the course. Presentation formats are flexible, and may include a recorded slide presentation (20 slides max.) with voiceover; an audiovisual essay; or a web page, wiki, or blog.  
+A 1-page tentative proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum on Blackboard by the end of Week 3, and you will receive feedback during Week 4. 
 
 ***  
 
