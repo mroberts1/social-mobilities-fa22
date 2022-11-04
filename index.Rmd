@@ -159,10 +159,10 @@ Thurday 15 December: Last day of classes
 - **Discord**: regular participation in weekly discussion and other channels (20%)  
 - **Commentary papers**: 2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Friday) (20%)
 - **Book Report**: Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books.  For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Friday of Week 5 (20%)  
-- **Creative Communities Project** journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)  
+- **Creative Communities Project**: journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)  
 - **Research paper/report/creative project**: 2,000 words, due on Blackboard by Friday of Week 7 (20%)  
 
-**Creative Communities**  
+### Creative Communities   
 On Fridays of each week of the course, we'll look at  some less-well-known communities on the internet, based on distributed, open-source platforms that are alternatives to the commercial platforms that dominate today's social mediascape. 
 
 Read the linked articles or read the introductory pages of the sites below. By the end of Week 2, choose and begin exploring **one** of the following platforms, protocols, and/or communities, and join the Discord channel for it on the course server. Keep a journal, write a report or a resource guide, make a blog or a wiki, or a creative project. This will be due on the Friday of Week 6.
@@ -173,7 +173,7 @@ Read the linked articles or read the introductory pages of the sites below. By t
 - [People's Republic of Interactive Fiction](http://pr-if.org/)   
 - [Live Coding](https://toplap.org/)
 
-**Research Paper/Project**  
+### Research Paper/Project    
 The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project (blog, website, podcast)  
 
 A 1-page tentative proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum on Blackboard by the end of Week 3, and you will receive feedback during Week 4. 
