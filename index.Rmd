@@ -16,7 +16,7 @@ output:
 link-citations: yes
 ---
 # COMM 7007 SOCIAL MOBILITIES
-
+![](img/polymeropoulou_8bit-music-from-europe_2.jpg)  
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
