@@ -45,9 +45,13 @@ Weinstein, Emily, and Carrie James (2022). [_Behind Their Screens: What Teens Ar
 
 White, Michele (2022). [_Touch Screen Theory: Digital Devices and Feelings_](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings). Cambridge, MA: MIT Press. ISBN:  978-0262544689.
 
+***
+
 ## OTHER RESOURCES
 [MIT Press Direct](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) (full list of Open Access publications)  
 [MIT Press Open Access journals](https://direct.mit.edu/journals/pages/open-access)  
+
+***
 
 ## COURSE INFORMATION
 
@@ -71,7 +75,7 @@ PDF documents and the syllabus will be available for download in the [Course Rep
 
 Week 1: Friday 28 October 2022  
 
-**GHOSTS & WITCHES**  
+### GHOSTS & WITCHES  
 
 - Narr, G., and Luong, A. (2022). “Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom.“ _The Communication Review_, 5 October. [Source](https://doi.org/10.1080/10714421.2022.2129949)  
 - Jane Barnette, "[Hocus-Pocus: WitchTok Education for Baby Witches](/social-mobilities-fall-22/pdf/WitchTok.pdf)" (in Trevor Boffone, _TikTok Cultures in the United States_)  
@@ -82,7 +86,7 @@ Watch: [The Tinder Swindler](https://www.netflix.com/title/81254340) (Netflix, 2
 
 Week 2: Friday 4 November 2022  
 
-**LURKING**
+### LURKING  
 
 Joanne McNeil, _Lurking: How A Person Became A User_  
 
@@ -94,7 +98,7 @@ Joanne McNeil, _Lurking: How A Person Became A User_
 
 Week 3: Friday 11 November 2022  
 
-**INTERFACES**  
+### INTERFACES    
 
 Michele White, [_Touch Screen Theory: Digital Devices and Feelings_](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)    
 
@@ -105,7 +109,7 @@ Michele White, [_Touch Screen Theory: Digital Devices and Feelings_](https://dir
 
 Week 4: Friday 18 November 2022  
 
-**SCREENTIME**
+### SCREENTIME  
 
 Emily Weinstein and Carrie James, [_Behind Their Screens: What Teens Are Facing (And Adults Are Missing)_](https://direct.mit.edu/books/book/5363/Behind-Their-ScreensWhat-Teens-Are-Facing-and)  
 
@@ -118,7 +122,7 @@ Watch: _Men, Women, and Children_ (Jason Reitman, 2014)
 
 Week 5: Friday 25 November 2022  
 
-**IDENTITY WORK**
+### IDENTITY WORK  
 
 Lee Humphreys, [_The Qualified Self: Social Media and the Accounting of Everyday Life_](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting)  
 
@@ -129,7 +133,7 @@ Lee Humphreys, [_The Qualified Self: Social Media and the Accounting of Everyday
 
 Week 6: Friday 2 December 2022
 
-**PARASOCIAL RELATIONS**
+### PARASOCIAL RELATIONS  
 
 Nancy Baym, "[Music Fandom and the Shaping of Online Culture](https://soundcloud.com/mit-cmsw/music-fandom-and-the-shaping-of-online-culture?si=d0abd915b14a42c9919759e9d64bbd61&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)," MIT Comparative Media Studies Progam, 6 April 2018 (podcast, 1:26:24)
 
@@ -142,7 +146,7 @@ _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection
 
 Week 7: Friday 9 December 2022
 
-**SHARING**
+### SHARING  
 
 - Research projects  
 
