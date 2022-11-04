@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.8em;
+  font-size: 1.4em;
   font-family: "Avenir Next", sans-serif;
 }
 hr {
@@ -43,7 +43,7 @@ hr {
 }
 a:link {
     text-decoration-color: #d74e45;
-    text-underline-offset: 3px;
+    text-underline-offset: 5px;
 }
 
 a:visited {
