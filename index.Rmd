@@ -1,23 +1,21 @@
 ---
+title: ''
+author: "Martin Roberts"
+date: "`r Sys.Date()`"
 output:
-  cleanrmd::html_document_clean:
-    theme: bamboo # or pick a specific theme
-    self_contained: false
+  tufte::tufte_html:
+    css: my_style.css
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: lualatex
+  word_document: null
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: lualatex
+  pdf_document: default
+link-citations: yes
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
-```{css, echo = FALSE}
-body {
-  margin: 0 auto;
-  max-width: 800px;
-  padding: 2rem;
-}
-```
-## COMM 7007 SOCIAL MOBILITIES
+# COMM 7007 SOCIAL MOBILITIES
 
 Fitchburg State University  
 Communications Media Department  
@@ -27,13 +25,13 @@ GCE Online-Accelerated
 Instructor: Dr. Martin Roberts  
 Email: [**mrober40@fitchburgstate.edu**](mailto:mrober40@fitchburgstate.edu)  
 
-### OVERVIEW
+## OVERVIEW
 
 This seminar is an exploration of what it means to live with personal, portable, and handheld media technologies. We will study these technologies across time and space by situating them within their historical contexts and by studying their use in various settings. We'll also employ a variety of theoretical frameworks and interdisciplinary approaches. Simultaneously, we will attempt to analyze and theorize our own handheld media experiences through and against the course readings.
 
 ***
 
-### COURSE TEXTS
+## COURSE TEXTS
 
 Linked titles are Open Access publications.
 
@@ -69,7 +67,7 @@ PDF documents and the syllabus will be available for download in the [**Course R
 
 ***  
 
-### WEEKLY SCHEDULE
+## WEEKLY SCHEDULE
 
 Week 1: Friday 28 October 2022  
 
@@ -77,6 +75,8 @@ Week 1: Friday 28 October 2022
 
 - Narr, G., and Luong, A. (2022). “Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom.“ _The Communication Review_, 5 October. [**Source**](https://doi.org/10.1080/10714421.2022.2129949)  
 - Jane Barnette, "[**Hocus-Pocus: WitchTok Education for Baby Witches**](/social-mobilities-fall-22/pdf/WitchTok.pdf)" (in Trevor Boffone, _TikTok Cultures in the United States_)  
+
+Watch: [The Tinder Swindler](https://www.netflix.com/title/81254340) (Netflix, 2022)  
 
 *** 
 
@@ -150,7 +150,7 @@ Thurday 15 December: Last day of classes
 
 ****
 
-### ASSIGNMENTS & EVALUATION
+## ASSIGNMENTS & EVALUATION
 
 - **Discord**: regular participation in weekly discussion and other channels (20%)  
 - **Commentary papers**: 2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Friday) (20%)
@@ -176,7 +176,7 @@ A 1-page tentative proposal with ideas for your project, with a short bibliograp
 
 ***  
 
-#### SELECT BIBLIOGRAPHY
+### SELECT BIBLIOGRAPHY
 
 Publications available as audiobooks and ebooks are indicated; you're encouraged to use either format.  
 
@@ -216,13 +216,13 @@ White, Michele (2022). [**_Touch Screen Theory: Digital Devices and Feelings_**]
 
 ***
 
-### MANDATORY REPORTER
+## MANDATORY REPORTER
 
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are “mandatory reporters,” which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit [**http://fitchburgstate.edu/titleix**](http://fitchburgstate.edu/titleix) to access information about university support and resources.
 
 ***  
 
-### PHYSICAL AND MENTAL HEALTH
+## PHYSICAL AND MENTAL HEALTH
 
 [**Health Services**](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
 
@@ -245,7 +245,7 @@ The university continues to partner with Our Father's House to support student n
 
 ***  
 
-### ACADEMIC INTEGRITY
+## ACADEMIC INTEGRITY
 
 The University “Academic Integrity” policy can be found online at [**http://**](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) [**www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct**](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/)[**mediation-education/academic-integrity/**](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/)[**.**](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
@@ -260,19 +260,19 @@ _If you're not clear on what is or is not plagiarism, ASK. The BEST case scenari
 
 ***  
 
-### AMERICANS WITH DISABILITIES ACT (ADA)
+## AMERICANS WITH DISABILITIES ACT (ADA)
 
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
 
 ***
 
-### INCOMPLETE AND LATE ASSIGNMENTS
+## INCOMPLETE AND LATE ASSIGNMENTS
 
 If you are not able to complete your work, please make every effort to contact your instructor **before the due date**. I am willing to make accommodations where necessary, but will assign a 0 if work is not submitted and we do not make other arrangements.
 
 ***  
 
-### TECHNOLOGY EXCUSE STATEMENT
+## TECHNOLOGY EXCUSE STATEMENT
 
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
 
@@ -284,7 +284,7 @@ At some point during the semester you will likely have a problem with technology
 
 ***  
 
-### GRADING POLICY
+## GRADING POLICY
 
 Grading for the course will follow the FSU grading policy below:
 
