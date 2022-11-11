@@ -1,29 +1,29 @@
 ---
 title: ''
 author: "Martin Roberts"
-date: "`r Sys.Date()`"
+date: '`r Sys.Date()`'
 output:
   tufte::tufte_html:
-    css: ../my_style.css
+    css: "../my_style.css"
   tufte::tufte_book:
     citation_package: natbib
     latex_engine: lualatex
-  word_document: null
   tufte::tufte_handout:
     citation_package: natbib
     latex_engine: lualatex
   pdf_document: default
+  word_document: null
 link-citations: yes
 ---
 ## W2: What We Do In The Shadows: Lurking and Social Media
 
-Reading assignments: Joanne McNeill, *Lurking*: Ch. 2, "Anonymity," Ch. 4, "Sharing" (see [GitHub](https://github.com/mroberts1/social-mobilities-fall-22/tree/main/pdf)) for download)
+Reading assignments: Joanne McNeill, *Lurking*: Ch. 2, "Anonymity," Ch. 4, "Sharing" (see [GitHub](https://github.com/mroberts1/social-mobilities-fall-22/tree/main/pdf) for download)
 
 ### References
 
 Stacy Horn, _Cyberville: Clicks, Culture, and the Creation of an Online Town_ (New York: Warner Books, Inc., 1998).
 
-Julian Dibbell, [A Rape in Cyberspace](http://www.juliandibbell.com/articles/a-rape-in-cyberspace/). Original publication: _The Village Voice_, December 1993. Subsequently published in _My Tiny Life: Crime and Passion in a Virtual World_  
+Julian Dibbell, "[A Rape in Cyberspace](http://www.juliandibbell.com/articles/a-rape-in-cyberspace/)." Original publication: _The Village Voice_, December 1993. Subsequently published in _My Tiny Life: Crime and Passion in a Virtual World_  
 (New York: Henry Holt & Co., 1998), chapter 1.
 
 Ana Voog, "[I Was One of the Most Famous People Online in 1998 — Then I Disappeared](https://www.vice.com/en/article/ywe9wv/anacam-anna-voog-livestream-web-cam-art)," _Vice_, 22 June 2018.
