@@ -13,7 +13,6 @@ output:
     citation_package: natbib
     latex_engine: lualatex
   pdf_document: default
-link-citations: yes
 ---
 # COMM 7007 SOCIAL MOBILITIES
 ![](img/polymeropoulou_8bit-music-from-europe_2.jpg)  
@@ -45,7 +44,7 @@ Weinstein, Emily, and Carrie James (2022). [_Behind Their Screens: What Teens Ar
 
 White, Michele (2022). [_Touch Screen Theory: Digital Devices and Feelings_](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings). Cambridge, MA: MIT Press. ISBN:  978-0262544689.
 
-***
+***  
 
 ## OTHER RESOURCES
 [MIT Press Direct](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) (full list of Open Access publications)  
@@ -75,7 +74,7 @@ PDF documents and the syllabus will be available for download in the [Course Rep
 
 Week 1: Friday 28 October 2022  
 
-### GHOSTS & WITCHES  
+**GHOSTS & WITCHES**    
 
 - Narr, G., and Luong, A. (2022). “Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom.“ _The Communication Review_, 5 October. [Source](https://doi.org/10.1080/10714421.2022.2129949)  
 - Jane Barnette, "[Hocus-Pocus: WitchTok Education for Baby Witches](/social-mobilities-fall-22/pdf/WitchTok.pdf)" (in Trevor Boffone, _TikTok Cultures in the United States_)  
@@ -86,7 +85,7 @@ Watch: [The Tinder Swindler](https://www.netflix.com/title/81254340) (Netflix, 2
 
 Week 2: Friday 4 November 2022  
 
-### LURKING  
+**LURKING**  
 
 Joanne McNeil, _Lurking: How A Person Became A User_  
 
@@ -98,7 +97,7 @@ Joanne McNeil, _Lurking: How A Person Became A User_
 
 Week 3: Friday 11 November 2022  
 
-### INTERFACES    
+**INTERFACES**    
 
 Michele White, [_Touch Screen Theory: Digital Devices and Feelings_](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)    
 
@@ -109,7 +108,7 @@ Michele White, [_Touch Screen Theory: Digital Devices and Feelings_](https://dir
 
 Week 4: Friday 18 November 2022  
 
-### SCREENTIME  
+**SCREENTIME**  
 
 Emily Weinstein and Carrie James, [_Behind Their Screens: What Teens Are Facing (And Adults Are Missing)_](https://direct.mit.edu/books/book/5363/Behind-Their-ScreensWhat-Teens-Are-Facing-and)  
 
@@ -122,7 +121,7 @@ Watch: _Men, Women, and Children_ (Jason Reitman, 2014)
 
 Week 5: Friday 25 November 2022  
 
-### IDENTITY WORK  
+**IDENTITY WORK** 
 
 Lee Humphreys, [_The Qualified Self: Social Media and the Accounting of Everyday Life_](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting)  
 
@@ -133,7 +132,7 @@ Lee Humphreys, [_The Qualified Self: Social Media and the Accounting of Everyday
 
 Week 6: Friday 2 December 2022
 
-### PARASOCIAL RELATIONS  
+**PARASOCIAL RELATIONS**  
 
 Nancy Baym, "[Music Fandom and the Shaping of Online Culture](https://soundcloud.com/mit-cmsw/music-fandom-and-the-shaping-of-online-culture?si=d0abd915b14a42c9919759e9d64bbd61&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)," MIT Comparative Media Studies Progam, 6 April 2018 (podcast, 1:26:24)
 
@@ -146,7 +145,7 @@ _Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection
 
 Week 7: Friday 9 December 2022
 
-### SHARING  
+**SHARING**  
 
 - Research projects  
 
@@ -162,7 +161,7 @@ Thurday 15 December: Last day of classes
 - **Creative Communities Project**: journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)  
 - **Research paper/report/creative project**: 2,000 words, due on Blackboard by Friday of Week 7 (20%)  
 
-### Creative Communities   
+**Creative Communities**     
 On Fridays of each week of the course, we'll look at  some less-well-known communities on the internet, based on distributed, open-source platforms that are alternatives to the commercial platforms that dominate today's social mediascape. 
 
 Read the linked articles or read the introductory pages of the sites below. By the end of Week 2, choose and begin exploring **one** of the following platforms, protocols, and/or communities, and join the Discord channel for it on the course server. Keep a journal, write a report or a resource guide, make a blog or a wiki, or a creative project. This will be due on the Friday of Week 6.
@@ -173,14 +172,14 @@ Read the linked articles or read the introductory pages of the sites below. By t
 - [People's Republic of Interactive Fiction](http://pr-if.org/)   
 - [Live Coding](https://toplap.org/)
 
-### Research Paper/Project    
+**Research Paper/Project**    
 The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project (blog, website, podcast)  
 
 A 1-page tentative proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum on Blackboard by the end of Week 3, and you will receive feedback during Week 4. 
 
 ***  
 
-### SELECT BIBLIOGRAPHY
+## SELECT BIBLIOGRAPHY
 
 Publications available as audiobooks and ebooks are indicated; you're encouraged to use either format.  
 
@@ -288,7 +287,7 @@ At some point during the semester you will likely have a problem with technology
 
 ***  
 
-## GRADING POLICY
+## GRADING POLICY  
 
 Grading for the course will follow the FSU grading policy below:
 
@@ -321,17 +320,20 @@ Grading for the course will follow the FSU grading policy below:
 
 0.0
 < 70
-                   
+
 ***
 
-**STUDENT RESOURCES**
+## STUDENT RESOURCES
 
-Writing Center: [http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
+[Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)  
 
-Academic Policies:  [http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
+[Academic Policies](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)  
 
-Disability Services: [http://www.fitchburgstate.edu/offices-services-directory/disability-services/](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
+[Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)   
 
-Fitchburg State Alert system for emergencies, snow closures/delays, and faculty absences: [https://www.getrave.com/login/](https://www.getrave.com/login/fitchburgstate/) [fitchburgstate/](https://www.getrave.com/login/fitchburgstate/)
+[Fitchburg State Alert](https://www.getrave.com/login/fitchburgstate/)  system for emergencies, snow closures and/or delays, faculty absences  
 
-University Career Services: [http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)[services/](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
+[University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)  
+
+***  
+
