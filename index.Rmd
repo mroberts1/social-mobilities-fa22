@@ -15,7 +15,8 @@ output:
   pdf_document: default
 ---
 # COMM 7007 SOCIAL MOBILITIES
-![](img/polymeropoulou_8bit-music-from-europe_2.jpg)  
+![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width=100%}  
+<br>
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
