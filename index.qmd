@@ -38,7 +38,9 @@ library(palmerpenguins)
 GCE Online-Accelerated\
 7 weeks, Friday 28 October -- Thursday 15 December 2022\
 Instructor: Dr. Martin Roberts\
-{{< fa regular envelope >}} [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
+{{< fa regular envelope >}}   [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)  
+{{< fa brands github >}} [GitHub repository](https://github.com/mroberts1/social-mobilities-fall-22)  
+{{< fa brands discord >}}  [Discord server](https://discord.gg/rm4BpXaG)  
 
 ### Overview
 
