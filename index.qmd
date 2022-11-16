@@ -38,7 +38,7 @@ library(palmerpenguins)
 GCE Online-Accelerated\
 7 weeks, Friday 28 October -- Thursday 15 December 2022\
 Instructor: Dr. Martin Roberts\
-Email: [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
+{{< fa regular envelope >}} [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 
 ### Overview
 
