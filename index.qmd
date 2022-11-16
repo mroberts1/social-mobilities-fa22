@@ -2,14 +2,11 @@
 title: ""
 format: 
   html:
-    css: discord-min.css
-    toc: true
-    toc-depth: 3
-    toc-title: Contents
-    include-in-header:
-      - <link rel='stylesheet' href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
-    embed-resources: true
-    smooth-scroll: true
+    toc: true  
+    toc-depth: 3  
+    toc-title: Contents  
+    css: discord.css
+    smooth-scroll: true  
   pdf:
     geometry:
     - top=30mm
@@ -26,8 +23,8 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-# COMM 7007 SOCIAL MOBILITIES
-![](img/polymeropoulou_8bit-music-from-europe_2.jpg)  
+## COMM 7007 SOCIAL MOBILITIES
+![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width=100%}  
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
