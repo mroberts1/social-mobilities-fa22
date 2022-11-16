@@ -4,17 +4,19 @@ format:
   html:
     toc: true  
     toc-depth: 3  
-    toc-title: Contents  
-    css: discord-min.css
+    toc-location: left
+    toc-title: Contents 
+    theme: 
+      light: flatly
+      dark: darkly
+    fontsize: 1.1em
+    linestretch: 1.7
     smooth-scroll: true  
   pdf:
     geometry:
     - top=30mm
     - left=30mm 
   docx: default
-theme:
-  light: flatly
-  dark: darkly
 editor: visual
 ---
 
@@ -26,7 +28,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-## COMM 7007 SOCIAL MOBILITIES
+## COMM 7007 Social Mobilities
 
 ![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width="100%"}
 
@@ -38,13 +40,13 @@ GCE Online-Accelerated\
 Instructor: Dr. Martin Roberts\
 Email: [mrober40\@fitchburgstate.edu](mailto:mrober40@fitchburgstate.edu)
 
-### OVERVIEW
+### Overview
 
 This seminar is an exploration of what it means to live with personal, portable, and handheld media technologies. We will study these technologies across time and space by situating them within their historical contexts and by studying their use in various settings. We'll also employ a variety of theoretical frameworks and interdisciplinary approaches. Simultaneously, we will attempt to analyze and theorize our own handheld media experiences through and against the course readings.
 
 ------------------------------------------------------------------------
 
-### COURSE TEXTS
+### Course Texts
 
 Baym, Nancy K. (2017). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. New York: New York University Press. ISBN: 978-1479821587.
 
@@ -58,14 +60,14 @@ White, Michele (2022). [*Touch Screen Theory: Digital Devices and Feelings*](htt
 
 ------------------------------------------------------------------------
 
-### OTHER RESOURCES
+### Other Resources
 
 [MIT Press Direct](https://direct.mit.edu/books/search-results?fl_SiteID=5&f_ContentType=Book&access_openaccess=true) (full list of Open Access publications)\
 [MIT Press Open Access journals](https://direct.mit.edu/journals/pages/open-access)
 
 ------------------------------------------------------------------------
 
-### COURSE INFORMATION
+### Course Information
 
 **Platforms**\
 We'll be using Blackboard for submitting assignments ONLY. For discussion, we will be using Discord.
@@ -83,11 +85,11 @@ PDF documents and the syllabus will be available for download in the [Course Rep
 
 ------------------------------------------------------------------------
 
-### WEEKLY SCHEDULE
+### Weekly Schedule
 
 Week 1: Friday 28 October 2022
 
-**GHOSTS & WITCHES**
+#### **Ghosts & Witches**
 
 -   Narr, G., and Luong, A. (2022). "Bored ghosts in the dating app assemblage: How dating app algorithms couple ghosting behaviors with a mood of boredom." *The Communication Review*, 5 October. [Source](https://doi.org/10.1080/10714421.2022.2129949)\
 -   Jane Barnette, "[Hocus-Pocus: WitchTok Education for Baby Witches](/social-mobilities-fall-22/pdf/WitchTok.pdf)" (in Trevor Boffone, *TikTok Cultures in the United States*)
@@ -98,19 +100,19 @@ Watch: [The Tinder Swindler](https://www.netflix.com/title/81254340) (Netflix, 2
 
 Week 2: Friday 4 November 2022
 
-**LURKING**
+#### **Lurking**
 
 Joanne McNeil, *Lurking: How A Person Became A User*
 
 -   Introduction
--   Anonymity (ch. 2)\
+-   Anonymity (ch. 2)
 -   Sharing (ch. 4)
 
 ------------------------------------------------------------------------
 
 Week 3: Friday 11 November 2022
 
-**INTERFACES**
+#### **Interfaces**
 
 Michele White, [*Touch Screen Theory: Digital Devices and Feelings*](https://direct.mit.edu/books/oa-monograph/5462/Touch-Screen-TheoryDigital-Devices-and-Feelings)
 
@@ -121,11 +123,11 @@ Michele White, [*Touch Screen Theory: Digital Devices and Feelings*](https://dir
 
 Week 4: Friday 18 November 2022
 
-**SCREENTIME**
+#### **Screentime**
 
 Emily Weinstein and Carrie James, [*Behind Their Screens: What Teens Are Facing (And Adults Are Missing)*](https://direct.mit.edu/books/book/5363/Behind-Their-ScreensWhat-Teens-Are-Facing-and)
 
--   Introduction: What Are We Missing? Why Does It Matter?\
+-   Introduction: What Are We Missing? Why Does It Matter?
 -   The Pull of the Screen
 
 Watch: *Men, Women, and Children* (Jason Reitman, 2014)
@@ -134,7 +136,7 @@ Watch: *Men, Women, and Children* (Jason Reitman, 2014)
 
 Week 5: Friday 25 November 2022
 
-**IDENTITY WORK**
+#### **Identity Work**
 
 Lee Humphreys, [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting)
 
@@ -145,33 +147,33 @@ Lee Humphreys, [*The Qualified Self: Social Media and the Accounting of Everyday
 
 Week 6: Friday 2 December 2022
 
-**PARASOCIAL RELATIONS**
+#### **Parasocial Relations**
 
 Nancy Baym, "[Music Fandom and the Shaping of Online Culture](https://soundcloud.com/mit-cmsw/music-fandom-and-the-shaping-of-online-culture?si=d0abd915b14a42c9919759e9d64bbd61&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)," MIT Comparative Media Studies Progam, 6 April 2018 (podcast, 1:26:24)
 
 *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*
 
--   Introduction: The Intimate Work of Connection\
+-   Introduction: The Intimate Work of Connection
 -   Platforms (ch. 5)
 
 ------------------------------------------------------------------------
 
 Week 7: Friday 9 December 2022
 
-**SHARING**
+#### **Sharing**
 
 -   Research projects
 
-Thurday 15 December: Last day of classes
+Thursday 15 December: Last day of classes
 
 ------------------------------------------------------------------------
 
-### ASSIGNMENTS & EVALUATION
+### Assignments & Evaluation
 
--   **Discord**: regular participation in weekly discussion and other channels (20%)\
+-   **Discord**: regular participation in weekly discussion and other channels (20%)
 -   **Commentary papers**: 2 short analysis papers (500 words, 2 pages double-spaced) based on any of the reading assignments, due on Blackboard by end of Weeks 2 and 4 (Friday) (20%)
--   **Book Report**: Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books. For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Friday of Week 5 (20%)\
--   **Creative Communities Project**: journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)\
+-   **Book Report**: Critical review (1,000 words, 4 pages double-spaced) of any text from the select bibliography. You are expected to read at least one additional chapter from any of the main course books. For texts scheduled in weeks 5-6, you'll need to read ahead. Due on Blackboard by Friday of Week 5 (20%)
+-   **Creative Communities Project**: journal, report (up to approx. 1,000 words) or creative project, due by Friday of Week 6 (20%)
 -   **Research paper/report/creative project**: 2,000 words, due on Blackboard by Friday of Week 7 (20%)
 
 **Creative Communities**\
@@ -192,13 +194,11 @@ A 1-page tentative proposal with ideas for your project, with a short bibliograp
 
 ------------------------------------------------------------------------
 
-### SELECT BIBLIOGRAPHY
+### Bibliography
 
-Publications available as audiobooks and ebooks are indicated; you're encouraged to use either format.
+[Publications available as audiobooks and ebooks are indicated; you're encouraged to use either format.]{.aside}
 
-Open Access publications are linked; individual chapters can be downloaded in PDF format.
-
-Baym, Nancy K. (2017). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. New York: New York University Press. ISBN: 978-1479821587.
+[Open Access publications are linked; individual chapters can be downloaded in PDF format.]{.aside} Baym, Nancy K. (2017). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. New York: New York University Press. ISBN: 978-1479821587.
 
 Bernard, Andreas (2019). *The Triumph of Profiling: The Self in Digital Culture*. Trans. Valentine A. Pakis. Cambridge: Polity Press. Originally published as *Komplizen des Erkennungsdienstes. Das Selbst in der digitalen Kultur*. ISBN: 978-1509536306.
 
@@ -232,13 +232,13 @@ White, Michele (2022). [*Touch Screen Theory: Digital Devices and Feelings*](htt
 
 ------------------------------------------------------------------------
 
-#### MANDATORY REPORTER
+#### Mandatory Reporter
 
 Fitchburg State University is committed to providing a safe learning environment for all students that is free of all forms of discrimination and harassment. Please be aware all FSU faculty members are "mandatory reporters," which means that if you tell me about a situation involving sexual harassment, sexual assault, dating violence, domestic violence, or stalking, I am legally required to share that information with the Title IX Coordinator. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, FSU has staff members trained to support you. If you or someone you know has been impacted by sexual harassment, sexual assault, dating or domestic violence, or stalking, please visit <http://fitchburgstate.edu/titleix> to access information about university support and resources.
 
 ------------------------------------------------------------------------
 
-#### PHYSICAL AND MENTAL HEALTH
+#### Physical & Mental Health
 
 [Health Services](http://www.google.com/url?q=http%3A%2F%2Fwww.fitchburgstate.edu%2Foffices-services-directory%2Fhealth-services%2F&sa=D&sntz=1&usg=AFQjCNEw5V0i0hL5DVO5b43gejNNaAt4ig)
 
@@ -261,7 +261,7 @@ The university continues to partner with Our Father's House to support student n
 
 ------------------------------------------------------------------------
 
-#### ACADEMIC INTEGRITY
+#### Academic Integrity
 
 The University "Academic Integrity" policy can be found online at [http://](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) [www.fitchburgstate.edu/offices-services-directory/office-of-student-conductmediation-education/academic-integrity/.](http://www.fitchburgstate.edu/offices-services-directory/office-of-student-conduct-mediation-education/academic-integrity/) Students are expected to do their own work. Plagiarism and cheating are inexcusable. Any instance of plagiarism or cheating will automatically result in a zero on the assignment and may be reported the Office of Student and Academic Life at the discretion of the instructor.
 
@@ -276,62 +276,49 @@ Plagiarism includes, but is not limited to:
 
 ------------------------------------------------------------------------
 
-#### AMERICANS WITH DISABILITIES ACT (ADA)
+#### Americans With Disabillities Act (ADA)
 
 If you need course adaptations or accommodations because of a disability, if you have emergency medical information to share with the instructor, or if you need special arrangements in case the building must be evacuated, please inform the faculty member as soon as possible.
 
 ------------------------------------------------------------------------
 
-#### INCOMPLETE AND LATE ASSIGNMENTS
+#### Incomplete & Late Assignments
 
 If you are not able to complete your work, please make every effort to contact your instructor **before the due date**. I am willing to make accommodations where necessary, but will assign a 0 if work is not submitted and we do not make other arrangements.
 
 ------------------------------------------------------------------------
 
-#### TECHNOLOGY EXCUSE STATEMENT
+#### Technology Excuse Statement
 
 At some point during the semester you will likely have a problem with technology. Your laptop will crash; your iPad battery will die; a recording you make will disappear; you will accidentally delete a file; the wireless will go down at a crucial time. These, however, are inevitabilities of life, not emergences. Technology problems are not excuses for unfinished or late work. Bad things may happen, but you can protect yourself by doing the following:
 
-- Plan ahead: A deadline is the last minute to turn in material. You can start---and finish---early, particularly if challenging resources are required, or you know it will be time consuming to finish this project. - Save work early and often: Think how much work you do in 10 minutes. I auto save every 2 minutes. - Make regular backups of files in a different location: Between Box, Google Drive, Dropbox, and iCloud, you have ample places to store and backup your materials. Use them. - Save drafts: When editing, set aside the original and work with a copy. - Practice safe computing: On your personal devices, install and use software to control viruses and malware.
+Plan ahead: A deadline is the last minute to turn in material. You can start---and finish---early, particularly if challenging resources are required, or you know it will be time consuming to finish this project. - Save work early and often: Think how much work you do in 10 minutes. I auto save every 2 minutes. - Make regular backups of files in a different location: Between Box, Google Drive, Dropbox, and iCloud, you have ample places to store and backup your materials. Use them. - Save drafts: When editing, set aside the original and work with a copy. - Practice safe computing: On your personal devices, install and use software to control viruses and malware.
 
 ------------------------------------------------------------------------
 
-### GRADING POLICY
+### Grading Policy
 
 Grading for the course will follow the FSU grading policy below:
 
-4.0 95-100
-
-3.7 92-94
-
-3.5 89-91
-
-3.3 86-88
-
-3.0 83-85
-
-2.7 80-82
-
-2.5 77-79
-
-2.3 74-76
-
-2.0 71-73
-
-0.0 \< 70
+-   4.0 95-100
+-   3.7 92-94
+-   3.5 89-91
+-   3.3 86-88
+-   3.0 83-85
+-   2.7 80-82
+-   2.5 77-79
+-   2.3 74-76
+-   2.0 71-73
+-   0.0 \< 70
 
 ------------------------------------------------------------------------
 
-#### STUDENT RESOURCES
+#### Student Resources
 
-[Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
-
-[Academic Policies](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
-
-[Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
-
-[Fitchburg State Alert](https://www.getrave.com/login/fitchburgstate/) system for emergencies, snow closures and/or delays, faculty absences
-
-[University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
+-   [Writing Center](http://www.fitchburgstate.edu/offices-services-directory/tutor-center/writing-help/)
+-   [Academic Policies](http://catalog.fitchburgstate.edu/content.php?catoid=13&navoid=851)
+-   [Disability Services](http://www.fitchburgstate.edu/offices-services-directory/disability-services/)
+-   [Fitchburg State Alert](https://www.getrave.com/login/fitchburgstate/) system for emergencies, snow closures and/or delays, faculty absences
+-   [University Career Services](http://www.fitchburgstate.edu/offices-services-directory/career-counseling-and-advising/career-services/)
 
 ------------------------------------------------------------------------
