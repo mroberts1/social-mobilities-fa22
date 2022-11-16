@@ -5,7 +5,7 @@ format:
     toc: true  
     toc-depth: 3  
     toc-title: Contents  
-    css: discord.css
+    css: discord-min.css
     smooth-scroll: true  
   pdf:
     geometry:
@@ -25,6 +25,7 @@ library(palmerpenguins)
 
 ## COMM 7007 SOCIAL MOBILITIES
 ![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width=100%}  
+  
 Fitchburg State University  
 Communications Media Department  
 MS, Applied Communication, Social Media Concentration  
