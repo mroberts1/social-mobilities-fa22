@@ -1,0 +1,49 @@
+---
+title: ""
+format: html
+editor: visual
+---
+
+## Getting Started with Gemini
+
+### Quickstart
+
+[Gemini Quickstart](https://geminiquickst.art/)
+
+Steve Lord, [Gopher, Gemini, and the Smol Internet](https://thedorkweb.substack.com/p/gopher-gemini-and-the-smol-internet)
+
+[Introduction to Gemini and the Small Internet](https://samsai.eu/post/introduction-to-gemini/)
+
+### Gemini
+
+[Gemini](https://gemini.circumlunar.space/)
+
+**Web proxies** (enable you to open Gemini addresses in web browsers)
+
+[geminispace.info](https://gemproxy.koyu.space/)(includes search engine)
+
+### Browsers
+
+Desktop: [Lagrange](https://gmi.skyjake.fi/lagrange/)(Mac/Win) [Kristall](https://kristall.random-projects.net/)(Mac/Win), [Geminaut](https://www.marmaladefoo.com/pages/geminaut)(Win only)
+
+Mobile: [Ariane](https://oppen.digital/software/oppensmolnet/ariane/)(Android), [Elaho](https://apps.apple.com/app/id1514950389)(iOS)
+
+Terminal: [Amfora](https://github.com/makeworld-the-better-one/amfora)(requires Go) 
+
+### General Resources
+
+[Awesome Gemini](https://github.com/kr1sp1n/awesome-gemini)(directory of gemini apps, servers, etc.)
+
+### Publishing with Gemini
+
+Ordinarily you would need an account to be hosted on a [server Links to an external site.](https://gemini.circumlunar.space/servers/)such as [gemini.circumlunar.space](http://gemini.circumlunar.space/).
+
+You would author documents in the [gemini markup](https://gemini.circumlunar.space/docs/cheatsheet.gmi)format, upload them to the server via FTP, and access them via a browser.
+
+Free web-based hosting is available from [flounder](https://admin.flounder.online/)and [gemlog.blueLinks to an external site.](https://gemlog.blue/)
+
+### Content
+
+[Joneworlds](https://gemproxy.koyu.space/republic.circumlunar.space/users/joneworlds/)(via geminispace proxy - use a gemini client for best results)
+
+Use [Spacewalk](https://gemini.circumlunar.space/x/rawtext.club:1965/~sloum/spacewalk.gmi)to check out people's accounts
