@@ -18,7 +18,7 @@ format:
     - left=30mm 
   docx: default
 fig-responsive: true
-link-external-newwindow: true
+link-external-newwindow: false
 embed-resources: true
 editor: visual
 ---
