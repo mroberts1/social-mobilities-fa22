@@ -55,7 +55,7 @@ This seminar is an exploration of what it means to live with personal, portable,
 
 Baym, Nancy K. (2017). *Playing to the Crowd: Musicians, Audiences, and the Intimate Work of Connection*. New York: New York University Press. ISBN: 978-1479821587.
 
-[Linked titles are Open Access publications.]{.aside} Humphreys, Lee (2018). [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting). Cambridge, MA: MIT Press. ISBN: 978-0262538954.
+[Linked titles are Open Access publications.]{.aside} [Humphreys, Lee](https://blogs.cornell.edu/humphreys/) (2018). [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting). Cambridge, MA: MIT Press. ISBN: 978-0262538954.
 
 McNeil, Joanne (2020). *Lurking: How A Person Became A User*. New York: Farrar, Strauss, and Giroux. ISBN: 978-1250785756.
 
@@ -143,7 +143,7 @@ Week 5: Friday 25 November 2022
 
 #### **Identity Work**
 
-Lee Humphreys, [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting)
+[Lee Humphreys](https://blogs.cornell.edu/humphreys/), [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting)
 
 -   Introduction (ch. 1)\
 -   Sharing the Everyday (ch. 2) [zip](https://github.com/mroberts1/social-mobilities-fall-22/blob/main/pdf/W5-Qualified-Self.zip)  
@@ -213,7 +213,7 @@ Bernard, Andreas (2019). *The Triumph of Profiling: The Self in Digital Culture*
 
 (Ebook) Boffone, Trevor, ed. (2022). *TikTok Cultures in the United States*. New York: Routledge. Kindle: ASIN: B0B9WKGT9N. ISBN: 978-1032249162.
 
-Humphreys, Lee (2018). [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting). Cambridge, MA: MIT Press. ISBN: 978-0262538954.
+[Humphreys, Lee](https://blogs.cornell.edu/humphreys/) (2018). [*The Qualified Self: Social Media and the Accounting of Everyday Life*](https://direct.mit.edu/books/book/3589/The-Qualified-SelfSocial-Media-and-the-Accounting). Cambridge, MA: MIT Press. ISBN: 978-0262538954.
 
 (Audiobook) Lagorio-Chafkin, Christine (2018). *We Are The Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory*. New York: Hachette Books. ISBN:  978-0316435406. Audiobook: ASIN: B07H5Q5JGS.
 
