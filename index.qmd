@@ -33,7 +33,7 @@ library(palmerpenguins)
 
 ## COMM 7007 Social Mobilities
 
-![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width="80%"}
+![](img/polymeropoulou_8bit-music-from-europe_2.jpg){width="85%"}
 
 [Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
